@@ -1,0 +1,191 @@
+<resources>
+    <string name="app_name">HIMYM APP</string>
+    <string name="TedDescription">
+        Nombre y apellido: Theodore Evelyn Mosby \n
+        Fecha de nacimiento: 25 Abril, 1978\n
+        Profesión: Arquitecto y profesor de arquitectura\n
+        Nicknames: Teddy Bear; T-Mos; T-Dog; Schmosby\n\n
+
+        Ted es de Shaker Heights, Ohio. Hijo de Virginia y Alfred Mosby, con quién no habla mucho de cosas importantes.\n\n
+        Se ha graduado en la Universidad de Wesleyan, donde ha estudiado arquitectura y donde ha conocido a su mejor amigo Marshall
+        Eriksen y a su novia Lily Aldrin.\n\n
+        Ted devido al compromiso de Marshall y Lily quiere encontrar la mujer de su vida, pasando por varias relaciones que nunca
+        resultan. Robin Scherbatsky es un de sus primeros y grandes amores; Barney
+        Stinson un de sus mejores amigos a quien no le gusta esta nueva fase de Ted. \n\n
+        Ted es un chico muy romántico y que no cree mucho en si mismo! Comparte su piso con sus amigos.
+    </string>
+
+
+    <string name="RobinDescription">
+        Nombre y apellido: Robin Charles Scherbatsky \n
+        Fecha de nacimiento: 23 Julio 1980\n
+        Profesión: Periodista y presentadora de noticias\n\n
+
+        Robin es una mujer Canadiense que defiende con todas sus fuerzas a su País. Su padre Robin Charles Scherbatsky la trató como un
+        chico hasta su adolescencia.\n\n
+        Independente y confiante, Robin es una periodista que desea llegar a conducir su propio programa de noticias.\n\n
+        Después de conocer a Ted y Barney, Robin se junta al grupo de amigos y se convierte en la mejor amiga de Lily.\n\n
+        Una apasionada por las armas y una aficionada por la palabra "literally".
+    </string>
+
+
+    <string name="BarneyDescription">
+        Nombre y apellido: Barney Stinson\n
+        Fecha de nacimiento: 1976\n
+        Profesión: Desconocida en el Goliath National Bank\n
+        Nickname(s): The Barnacle; Barn\n\n
+
+        Barney se crió en Port Richmond, Staten Island. Su madre, Loretta Stinson, una mujer aparentemente muy promiscua lo ha críado junto a
+        su hermano James.\n\n
+        Barney era un hippie y un músico aficionado, que pretendia unirse al Cuerpo de Paz, hasta que su novia lo engaño
+        y lo dejó por un hombre de traje sin alma. Después de eso, Barney se convirtió en un mujeriego de traje.\n\n
+        Barney es muy orgulloso y obstinado, intenta mantener su palabra sin importar nada. Es muy manipulador y altamente competitivo.\n\n
+        Es muy creativo y  usa trucos de magia para atraer a las mujeres.\n\n
+        Barney tiene un trabajo totalmente desconocido y es el miembro más rico del grupo.\n\n
+    </string>
+
+    <string name="MarshallDescription">
+
+        Nombre y apellido: Marshall Eriksen\n
+        Fecha de nacimiento: 1978\n
+        Profesión: Abogado\n
+        Nickname(s): Marshmellow; Vanilla Thunder; Big Fudge \n\n
+
+        Marshall es de St. Cloud, Minnesota. Hijo de Marvin y Judy Eriksen, tiene 2 hermanos, Marvin Jr. y Marcus, y el es el más pequeño de
+        la familia (193 cm).\n\n
+        En la Universidad de Wesleyan es donde conoce a su mejor amigo Ted y a su novia Lily en el primer día de clases.\n\n
+        Marshall es un chico muy ingenuo, sensible y positivo, se convierte en un abogado debido a su interés por la protección del medio
+        ambiente! Le encanta la comida.\n\n
+        Tiene un gran interés por lo sobrenatural, fantasmas y el monstruo del Lago Ness.\n\n
+        Marshall esta totalmente enamorado de Lily, con quién mantiene una relación fuerte desde hace muchos años y por la cual ya ha sufrido mucho.\n\n
+        Es extremamente leal a sus amigos.
+    </string>
+
+    <string name="LilyDescription">
+
+        Nombre y apellido: Lily Aldrin \n
+        Fecha de nacimiento: 1978\n
+        Profesión: Profesora de jardín de la infancia, pintora\n
+        Nickname(s): Lil; Lilypad\n\n
+
+        Lily creció en Brooklyn, Nueva York. Hija de Janice y Mickey Aldrin, que están separados. Su padre es un adicto y creador de juguetes
+        todos ellos sin éxito.\n\n
+        Ha conocido a su novio Marshall y Ted en la Universidade de Wesleyan.\n\n
+        Es quien "pone los pantalones" en su relación con Marshall y es muy impulsiva.\n\n
+        Lily esta obsesionada con la ropa y botas de diseñador.\n\n
+    </string>
+
+
+    <!-- Descripción de temporadas-->
+
+    <string name="Season1Description">
+        Ted comparte piso con sus mejores amigos de la universidad, Marshall y Lily, cuando Marshall después de casi 9 años de noviazgo se propone a su novia y esta lo acepta. Todo esto despierta en Ted una grande necesidad de encontrar el grande amor de su vida.\n\n
+        Esta nueva búsqueda y perspectiva de vida de Ted es un disgusto para su amigo y compañero Barney, que defiende no haber nada mejor que estar soltero y que lo intenta probar.\n\n
+        En un de los juegos de Barney para conocer y presentar mujeres, Ted conoce a Robin, una ambiciosa y independiente periodista del Canada, que en pocos momentos se transforma en la pasión de Ted. Sin embargo, Robin no desea tener una relación tan pesada y estos se quedan solo amigos.\n\n
+        Mientras tanto, Ted conoce a Victoria, una mona pastelera, en un casamiento de sus amigos, donde tienen un momento mágico entre ellos y después de unas aventuras, por fin estos empiezan una relación. Pero Victoria consigue una bolsa en Alemania, donde se muda y a pesar de estos intentaren una relación a distancia, esta termina dañada debido a Robin.\n\n
+        Mientras Ted pasa por esto, la pareja Marshall y Lily están cada vez mas enamoradas y soñando con el casamiento perfecto, pero esto hasta que Lily empieza a ponerse en duda y se va a San Francisco a un curso de arte, dejando a su compañero devastado. \n\n
+    </string>
+
+     <string name="Season2Description">
+       Ted y Robin son ahora una pareja, pero mientras tanto Marshall de corazón roto intenta seguir su vida sin Lily.\n\n
+        Después de tener una grande depresión y de sufrir numerosas averías en el estado emocional, todos sus amigos, lo intentan poner de nuevo en el mundo de las citas.\n\n
+        Más tarde, Lily después de darse cuenta que su sueño no era lo que esperaba y que no está destinada a ser una artista, regresa a Nueva York y se queda en casa de Barney. Después de algunos intentos, Lily se reúne con Marshall y al final culmina con su matrimonio.\n\n
+        El secreto de adolescencia de Robin es descubierto por Barney, lo que lleva a una serie de apuestas y donde se crea el popular "Slap Bet",
+        Lo que también es revelado es el hermano gay de Barney, llamado James, que viene a Nueva York con una noticia.\n\n
+        Robin y Ted después de irse a vivir juntos, devido a sus diferentes expectativas de vida rompen su noviazgo. \n\n
+        Mientras Marshall y Lily celebran su matrimonio, Ted y Robin cuentan a Barney que han rompido, noticia que deja Barney extasiante pués tiene su compañero de vuelta.\n\n
+    </string>
+
+     <string name="Season3Description">
+        Robin vuelve de su viaje a Argentina con su nuevo novio Gael, y Ted tiene que acostumbrarse a ver Robin solo como una amiga.\n\n
+        Marshall y Lily deciden mudarse por su cuenta, pero se enamoran de un hogar que no pueden pagar.\n\n
+        Robin se entera de que Lily no tiene dinero debido a su compra compulsiva por ropas de diseñadores y le da fuerzas para contar a Marshall. A pesar de esto, son por fin capaces de tener el apartamento de sus sueños, que se revela con muchos defectos.\n\n
+        Ted danos a conocer que un paraguas amarillo que encontró en un club es un punto importante de la historia de como conoció a su mujer.\n\n
+        Ted esta enamorado de una dermatologa donde va a remover su tatuaje y la quiere conquistar, pero sus amigos le alertan que no es una buena idea.\n\n
+        Ted deja de hablar con su amigo Barney, después que este rompe el "Bro Code" y pasa la noche con Robin. Mientras tanto los intentos de Barney para conquistar chicas están siendo saboteados por una chica dañada.\n\n
+        Ted y Barney sufren un accidente en coche y acaban por renovar su amistad. Mientras esto pasa, Barney se da cuenta que tiene sentimientos por Robin.\n\n
+        Ted se propone a Stella, la dermatologa.\n\n
+    </string>
+
+     <string name="Season4Description">
+        Stella acepta la propuesta de Ted y Robin acepta un nuevo trabajo en el Japón, pero luego vuele a Nueva York para asistir a la boda de Ted, después de darse cuenta de lo mucho que extraña a sus amigos.
+        Stella deja Ted devastado cuando lo abandona en el altar para volver con el padre de su hija, Tony.\n\n
+        Barney lucha con sus sentimientos por Robin y su compañía le pasa al equipo de dirección de una nueva adquisición, el Goliath National Bank.\n\n
+        Mientras Barney celebra un falso alarme  de un posible embarazo, Marshall y Lily se mueven a su nuevo apartamento y empiezan el debate se están listos o no a tener un hijo.\n\n
+        Robin se va a compartir el piso con Ted y estos deciden  dormir juntos a cada dia para que no se peleen. Barney celoso, para hacerlos parar revela sus sentimientos por Robin a Ted.\n\n
+        Ted descubre que Lily ha saboteado todas sus relaciones con las personas que no aprobaba y que puede haber ayudado a su ruptura con Robin. \n\n
+        Más tarde, Ted se tropieza con Stella y Tony, que le oferece un trabajo como profesor de arquitectura.\n\n
+        Robin descubre que Barney tiene sentimientos por ella y estos empiezan una especie de relación.\n\n
+        Ted ve que su futuro como arquitecto no esta llevando a ningún lado y se anima a dar clases.\n\n
+
+    </string>
+
+     <string name="Season5Description">
+       Ted comienza su trabajo como profesor de arquitectura y en el primero día se equivoca de clase, compartiendo por momentos el mismo salón que su futura mujer.\n\n
+        Después de todo el verano en una especie de relación, Lily encierra a Barney y Robin en una habitación para que estos definan su relación. Ted enseña a Barney todo lo que hay que saber sobre Robin pero más tarde estos deciden romper y van mostrando sentimientos de pesar por su ruptura.\n\n
+        Ted sale con una estudiante y la compañera de su habitación es su futura mujer, que todavía no llega a conocer.\n\n
+        Robin conoce a Don, un colega de trabajo que inicialmente no le gusta, pero luego empiezan a salir y piensan vivir juntos. Ella rechaza un trabajo en Chicago por el, que lo va a aceptar después en su vez.\n\n
+        Ted se compra una casa en reacción al segundo casamiento de su madre, que necesita ser muy arreglada y se revela el futuro hogar de la familia de Ted.\n\n
+        Marshall y Lily siguen teniendo dudas sobre tener o no tener un hijo, pero después de unos cuantos señales, parecen listos y todo el grupo los anima y apoya.\n\n
+    </string>
+
+     <string name="Season6Description">
+        Después de la insistencia de Barney, Ted acaba siendo contratado, por el Goliath National Bank, como arquitecto de una nueva sede del banco. Sin embargo, este encuentra una oposición cuando conoce a Zoey Pierson, una mujer que esta protestando contra el Goliath National Bank.\n\n
+        El encontro de Ted con Zoey acaba floreciendo en una relación, lo que más tarde termina cuando Ted escoge en primero su carrera y su proyecto.\n\n
+        Marshall y Lily están teniendo dificultades en tener un bebe y mientras eso pasa, una tragedia mayor viene, el padre de Marshall se muere.\n\n
+        Con la decision de tener un hijo, Marshall ha prometido a Lily luchar y trabajar más por su futuro, pero renuncia al trabajo en el Goliath National Bank y sigue su sueño, terminando por ser el abogado de Zoey, lo que trae algunos problemas.\n\n
+        Mientras tanto Barney conoce a su padre y es presentado a Nora, una compañera de trabajo de Robin, por la cual desenvuelve sentimientos.\n\n
+        Robin se cambia de trabajo y un de sus grandes secretos es descubierto por su grupo de amigos.\n\n
+    </string>
+
+     <string name="Season7Description">
+        Lily y Marshall revelan que están esperando un hijo juntos y Marshall consigue un trabajo en una firma de abogados del medio ambiente.\n\n
+        Barney demuestra a Nora que puede ser un buen novio para ella, y Robin recupera sentimientos por Barney.\n\n
+        Mientras tanto Ted vuelve para Victoria pues se siente muy culpado por la haber traído cuando esta estaba en Alemania, pero Victoria esta comprometida y escoge a su novio.\n\n
+        Robin empieza a hacer una terapia impuesta judicialmente, donde conoce a Kevin, su terapeuta, y los dos más tarde comienzan una relación después de algunos problemas iniciales.\n\n
+        Ted después de años soñando con "The Slutty Pumpkin", finalmente la conoce, pero estos tienen la peor novela posible y se rompen poco después.\n\n
+        Robin descubre por Barney que este también tiene sangre Canadiense, lo que es un desgasto para el.\n\n
+        Barney y Robin se besan y duermen juntos y Barney deja a Nora en el dia que conoce a sus padres por primera vez. Pero Robin sigue con Kevin.\n\n
+        Después de un falso alarme de que Robin esta embarazada, esta descubre que no puede tener hijos.\n\n
+    </string>
+
+     <string name="Season8Description">
+        En esta temporada vuelve una persona del pasado de Ted, Victoria. \n\n
+         Victoria y Ted vuelven a retomar el romance que dejaron por años, todos estan en pareja; Robin esta con Nick, Barney con su novia
+         Quinn y Marshall con Lily.\n\n
+         Después de un tiempo Ted y Victoria terminan su relación, Robin ya no quiere estar con Nick y Barney termina con Quinn. \n\n
+         Marshall y Lily se dan cuenta lo pesado que es ser padres pero aún así estan enfocados en Marvin.\n\n
+         Robin y Barney se comprometen y por fin podemos conocer a la madre de los hijos de Ted. \n\n
+
+
+    </string>
+
+     <string name="Season9Description">
+        Esta temporada transurre en el fin de semana de la boda de Robin y Barney. \n\n
+         Todos viajan al lugar de la boda en un romántico hotel. Se cuenta la historia de como todos conocieron a la madre de los hijos de Ted antes que el. \n\n
+         La madre de Robin esta por llegar a la boda de su hija pero existirán algunas dificultades.\n\n
+         Por fin sabemos como Ted conoce a su esposa. \n\n
+    </string>
+
+
+
+
+    <string name="Sinopsis">
+        En el año 2030, Ted Mosby narra a sus hijos adolescentes como conoció a su madre en esta exitosa serie de la CBS (2 premios Emmy).\n\n
+        Ted es un arquitecto de 27 años que decide lanzarse a la búsqueda del amor verdadero, algo que no le resultará tan sencillo.
+        "How I met your mother" (Cómo conocí a su madre) comienza con la voz en off de Ted, cuando relata sus vivencias desde que su amigo
+        Marshall, decide pedirle a su novia Lily que se case con él. Ted se da cuenta de que él también debe apresurarse si quiere encontrar
+        el amor verdadero y formar una familia, para lo que cuenta con Barney, un joven algo extravagante y adicto a los somníferos al que le
+        encanta llevar siempre traje y sobre todo conocer mujeres en el bar donde todos se reúnen. Cuando por fin Ted conoce a Robin, una
+        impresionante joven canadiense que se acaba de mudar a Nueva York, está completamente seguro de que es amor a primera vista,
+        pero el destino podría depararle muchas sorpresas.
+
+    </string>
+
+
+
+
+
+
+
+</resources>

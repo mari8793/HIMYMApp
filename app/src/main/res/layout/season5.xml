@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorFondo">
+
+
+    <ScrollView
+        android:layout_width="384dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView2"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="56dp">
+
+        <RelativeLayout
+            android:orientation="vertical"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:background="#fff"
+            android:layout_marginTop="10dp"
+            android:elevation="4dp"
+            android:backgroundTint="@color/colorFondo"
+            android:layout_weight="0.90"
+            android:weightSum="1">
+
+            <ImageView
+                android:layout_width="368dp"
+                android:layout_height="177dp"
+                app:srcCompat="@drawable/seasonfive"
+                android:id="@+id/imgs1"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_editor_absoluteX="4dp"
+                android:layout_marginTop="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="855dp"
+                android:text="@string/Season5Description"
+                android:textStyle="bold"
+                android:layout_marginTop="250dp"
+                android:id="@+id/var2"
+                android:textSize="18dp"
+                android:textColor="@color/colorAccent"
+                android:layout_weight="0.86" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+
+
+</android.support.constraint.ConstraintLayout>
